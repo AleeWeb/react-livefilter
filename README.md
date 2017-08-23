@@ -1,1 +1,1 @@
-React search filter on client-side. Search for Marvel Daredevil villains.
+Search for Marvel Daredevil villains using this React client-side search app.
