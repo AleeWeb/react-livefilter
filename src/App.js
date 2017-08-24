@@ -23,7 +23,7 @@ const villains = [
 
 function searchingFor(term) {
   return function(x){
-    return x.first.toLowerCase().includes(term.toLowerCase()) || !term;
+    return x.name.toLowerCase().includes(term.toLowerCase()) || !term;
   }
 }
 
